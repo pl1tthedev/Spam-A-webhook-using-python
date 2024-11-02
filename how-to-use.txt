@@ -5,3 +5,5 @@ also make sure to change webhook_url to ur webhook link
 and u can change the @everyone thing to wtv u wanna
 if ur not tryna manually change all the @everyones just do ctrl-f and yeah u can do stuf there
 if u dont understand how to use ctrl f ur js dum
+
+i think u can also run this using a visual studio python thing but i havent tested that yet :)
