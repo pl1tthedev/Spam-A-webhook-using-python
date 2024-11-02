@@ -1,0 +1,3 @@
+how to use thingy
+basically just import this github page into a repl in repl.it and uh thats it but if it dont work u need .pythonlibs so if u dont have that js delete ur current repl and make a
+new default python repl and it should be there so then js copy all the code in there and ya welcome
