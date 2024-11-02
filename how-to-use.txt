@@ -3,3 +3,5 @@ basically just import this github page into a repl in repl.it and uh thats it bu
 new default python repl and it should be there so then js copy all the code in there and ya welcome
 also make sure to change webhook_url to ur webhook link
 and u can change the @everyone thing to wtv u wanna
+if ur not tryna manually change all the @everyones just do ctrl-f and yeah u can do stuf there
+if u dont understand how to use ctrl f ur js dum
