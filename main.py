@@ -1,8 +1,8 @@
 import requests
 webhook_url = 'your webhook thingy'
 while True:
-    a = {"content": "@everyone discord.gg/wxMmA57Wfv"}
-    response = requests.post(webhook_url, json=a)
+    msg = {"content": "@everyone discord.gg/metadata"}
+    response = requests.post(webhook_url, json=msg)
     if response.status_code == 204:
         print("posted")
     if response.status_code == 429:
